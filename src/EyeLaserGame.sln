@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyeLaserGame", "EyeLaserGame.csproj", "{856D6550-5B46-5378-0638-5C6D03EAD362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856D6550-5B46-5378-0638-5C6D03EAD362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856D6550-5B46-5378-0638-5C6D03EAD362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856D6550-5B46-5378-0638-5C6D03EAD362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856D6550-5B46-5378-0638-5C6D03EAD362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E114AB6A-2C0A-4553-9812-07B981DE41A7}
+	EndGlobalSection
+EndGlobal
